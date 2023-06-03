@@ -1,4 +1,8 @@
-# HowtoSaythisPokerGame
-## A popular folk poker game in zhejiang, China
+# A popular poker game in China
+Java Network Programming - C/S Programs
 ## Approach
-c/s&multithreading for javase
+TCP
+Socket
+Json
+C/S
+Multi-threading
